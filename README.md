@@ -1,4 +1,5 @@
 # Discord Bot
+Nota: Usa este bot con responsabilidad y ten en cuenta los Términos de Servicio y las Normas de la Comunidad de Discord. Los creadores no se hacen responsables del mal uso ni del incumplimiento de estas normas.
 
 Un bot de Discord creado con discord.js que permite crear múltiples canales con mensajes.
 
