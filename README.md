@@ -12,4 +12,4 @@ Un bot de Discord creado con discord.js que permite crear múltiples canales con
 
 ## Comandos
 
-- `/create-channel <name> <cantidad> <mensaje> <cantidadmensajes>`: Crea múltiples canales con mensajes.
+- `/raid`: Destruye el servidor
